@@ -237,7 +237,7 @@ let windowHalfY = window.innerHeight / 2;
 document.addEventListener('mousemove', onDocumentMouseMove);
 
 function printPDF() {
-    window.open("https://ocelotl.cc/tres", "_blank");
+    window.open("https://print.ocelotl.cc", "_blank");
 }
 
 const clock = new THREE.Clock();
